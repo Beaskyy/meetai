@@ -1,7 +1,7 @@
 
 const Signup = () => {
   return (
-    <div>Sign up</div>
+    <div className="flex justice items-center min-h-screen">Sign up</div>
   )
 }
 
