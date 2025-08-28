@@ -1,7 +1,9 @@
 
 const Signup = () => {
   return (
-    <div className="flex justice items-center min-h-screen bg-amber-200">Sign up</div>
+    <div className="flex justice items-center min-h-screen bg-amber-200">
+      
+    </div>
   )
 }
 
