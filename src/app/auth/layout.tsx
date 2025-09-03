@@ -5,6 +5,7 @@ const Signup = () => {
       <h2>Sign Up</h2>
       <p>Enter your details to sign up</p>
       <form>
+        <div>clear</div>
       </form>
     </div>
   )
