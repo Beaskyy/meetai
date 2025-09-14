@@ -4,7 +4,9 @@ const Signup = () => {
     <div className="flex justice items-center min-h-screen bg-amber-200">
       <h2>Sign Up</h2>
       <p>Enter your details to sign up</p>
-
+      <form onSubmit={() => {}}>
+        <div>clear</div>
+      </form>
     </div>
   )
 }
